@@ -24,6 +24,3 @@ This game was developed using the Ren'Py program, an open-source software used t
 
 This game was developed by a team of four people: Mohammed, Ahmed, Abdullah, and Munir. We are proud of the work we have done and hope that you enjoy playing the game.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md (http://license.md/) file for details.
