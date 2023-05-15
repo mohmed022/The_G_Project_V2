@@ -1,6 +1,6 @@
 
 
-# 5G Technology Game
+# The Tech Talkers
 
 This game was developed using the Ren'Py program, an open-source software used to create visual novels and interactive games. The game features a unique and enjoyable style, revolving around a group of friends who gather in a café to discuss the potential benefits and challenges of 5G technology.
 
@@ -24,9 +24,9 @@ This game was developed using the Ren'Py program, an open-source software used t
 
 This game was developed by a team of four people:
 
-```1- Гомаа Мохамед Ахмед Хуссин ```
+```1- Абдельрахман Абдельрахман Саид Али```
 
-```2- Абдельрахман Абдельрахман Саид Али```
+```2- Гомаа Мохамед Ахмед Хуссин ```
 
 ```3- Ахмед Амр Мохамед Али```
 
