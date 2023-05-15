@@ -14,22 +14,22 @@ This game was developed using the Ren'Py program, an open-source software used t
 
 ## How to Play
 
-1. Download and install the Ren'Py program from the official website.
-https://www.renpy.org/latest.html
-3. Clone or download the repository to your local machine.
-4. Open the Ren'Py program and select "Open Project".
-5. Navigate to the downloaded repository and select the "game" folder.
-6. Click "Launch Project" to start the game.
+1. Download and install the Ren'Py program from the official website: https://www.renpy.org/latest.html.
+2. Clone or download the repository to your local machine.
+3. Open the Ren'Py program and select "Open Project".
+4. Navigate to the downloaded repository and select the "game" folder.
+5. Click "Launch Project" to start the game.
 
 ## Contributors
 
 This game was developed by a team of four people:
-1- Абдельрахман Абдельрахман Саид Али. 
 
-2- Моогам хасан ехаб
+```1- Гомаа Мохамед Ахмед Хуссин ```
 
-3- Ахмед Амр Мохамед Али
+```2- Абдельрахман Абдельрахман Саид Али```
 
-4- Гомаа Мохамед Ахмед Хуссин
-We are proud of the work we have done and hope that you enjoy playing the game.
+```3- Ахмед Амр Мохамед Али```
 
+```4- Моогам хасан ехаб ```
+
+We would like to thank all the players who have downloaded and played our game. We hope you enjoyed playing it as much as we enjoyed developing it.
