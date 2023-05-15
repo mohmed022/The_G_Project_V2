@@ -15,10 +15,11 @@ This game was developed using the Ren'Py program, an open-source software used t
 ## How to Play
 
 1. Download and install the Ren'Py program from the official website.
-2. Clone or download the repository to your local machine.
-3. Open the Ren'Py program and select "Open Project".
-4. Navigate to the downloaded repository and select the "game" folder.
-5. Click "Launch Project" to start the game.
+https://www.renpy.org/latest.html
+3. Clone or download the repository to your local machine.
+4. Open the Ren'Py program and select "Open Project".
+5. Navigate to the downloaded repository and select the "game" folder.
+6. Click "Launch Project" to start the game.
 
 ## Contributors
 
