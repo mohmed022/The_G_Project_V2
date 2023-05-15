@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 95: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+     b "C++ is another popular language used in high performance applications such as games and machine learning. And of course there is Swift which is used to develop applications for Apple devices.""
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Mon May 15 08:44:16 2023
