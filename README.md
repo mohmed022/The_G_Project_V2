@@ -23,5 +23,13 @@ https://www.renpy.org/latest.html
 
 ## Contributors
 
-This game was developed by a team of four people: Mohammed, Ahmed, Abdullah, and Munir. We are proud of the work we have done and hope that you enjoy playing the game.
+This game was developed by a team of four people:
+1- Абдельрахман Абдельрахман Саид Али. 
+
+2- Моогам хасан ехаб
+
+3- Ахмед Амр Мохамед Али
+
+4- Гомаа Мохамед Ахмед Хуссин
+We are proud of the work we have done and hope that you enjoy playing the game.
 
